@@ -1,0 +1,15 @@
+{
+  "name": "claude-hooks",
+  "version": "0.1.0",
+  "description": "30+ production-ready Claude Code hooks with one-command install.",
+  "type": "module",
+  "bin": {
+    "claude-hooks": "dist/cli.js"
+  },
+  "keywords": ["claude-code", "hooks", "automation", "developer-tools", "cli"],
+  "author": "Kasim Mohammed",
+  "license": "MIT",
+  "repository": "git+https://github.com/kasimmj/claude-code-hooks-cookbook.git",
+  "engines": {"node": ">=18"},
+  "files": ["dist", "hooks", "README.md", "LICENSE"]
+}
